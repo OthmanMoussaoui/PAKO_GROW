@@ -296,7 +296,7 @@ def query_huggingface_api(payload):
     print("API Response:", response.json())  # Add this line to log the API response
     return response.json()
 
-HF_API_TOKEN = "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"
+HF_API_TOKEN ="Use your own huggingface token"
 HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1"
 headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
 
