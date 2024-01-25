@@ -31,7 +31,7 @@ Pako Grow comprises several key components, each addressing specific agricultura
 - **Pako GPT Agriculture Chatbot**: Pako GPT is an intelligent chatbot that offers real-time agricultural guidance in Moroccan Arabic, answering farmers' queries and providing expert advice.
 
 - **optimizing crop distribution**:  Simulation Of real Time data visualisation in  Power BI to visualize data, deriving insights crucial for optimizing crop distribution. We analyze crop distribution, assess soil and air conditions essential for robust crop growth, and examine the geographical positioning of farms across Morocco.
-- 
+
 ## Key Components
 
 - [Crop Anomaly Detection](crop-anomaly-detection)
@@ -68,7 +68,7 @@ Contact Me to get Azure Pipeline with this architucture
 ![Architucture](https://raw.githubusercontent.com/OthmanMoussaoui/PAKO_GROW/main/Data/Screenshot%202024-01-24%20161103.png)
 
 
-You can Learn More About it in PakoGrow Report 
+You can Learn More About it in PakoGrow Report [Report](https://github.com/OthmanMoussaoui/PAKO_GROW/blob/main/PakoGrow_Report.pdf)
 
 ## Usage
 
