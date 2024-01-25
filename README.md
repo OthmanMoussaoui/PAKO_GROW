@@ -56,12 +56,12 @@ Our project leverages the following technologies:
 ## Getting Started
 
 To use Pako Grow and its components, simply 
-- Clone this repository: git clone https://github.com/yourusername/pako-grow.git
+- Clone this repository: git clone https://github.com/OthmanMoussaoui/PAKO_GROW.git
 - Install dependencies: pip install -r requirements.txt
 - Run the Flask app: python app.py
   
 We've designed it to be user-friendly and accessible to farmers of all backgrounds.
-For the interface template is inspired from harvesty but we did add multiple features as you can see 
+For the interface template is inspired from [harvestify](https://github.com/Gladiator07/Harvestify) repo but we did add multiple features as you can see 
 
 Contact Me to get Azure Pipeline with this architucture 
 
