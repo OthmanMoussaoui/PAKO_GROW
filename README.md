@@ -1,6 +1,6 @@
 # Pako Grow - Empowering Agriculture with Technology
 
-![Pako Grow Logo](https://example.com/pako-grow-logo.png)
+![Pako Grow Logo](https://raw.githubusercontent.com/OthmanMoussaoui/PAKO_GROW/main/Data/don.png)
 
 ## Table of Contents
 
