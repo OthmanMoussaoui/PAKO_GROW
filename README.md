@@ -1,6 +1,6 @@
 # Pako Grow - Empowering Agriculture with Technology
 
-![Pako Grow Logo](https://raw.githubusercontent.com/OthmanMoussaoui/PAKO_GROW/main/Data/don.png)
+![Pako Grow Logo](https://raw.githubusercontent.com/OthmanMoussaoui/PAKO_GROW/main/Data/otana-black.png)
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@ For the interface template is inspired from harvesty but we did add multiple fea
 
 Contact Me to get Azure Pipeline with this architucture 
 
-![Architucture](https://example.com/pako-grow-logo.png)
+![Architucture](https://raw.githubusercontent.com/OthmanMoussaoui/PAKO_GROW/main/Data/Screenshot%202024-01-24%20161103.png)
 
 
 You can Learn More About it in PakoGrow Report 
